@@ -38,7 +38,4 @@ This workspace contains scripts and datasets for preprocessing Titanic passenger
 
 For questions, please contact me 
 
-### Soical 
 
-Instagram Theitsash
-Github Ashking92 & yashpawar9274
